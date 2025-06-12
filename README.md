@@ -1,7 +1,3 @@
-
-## Website Redesign Project: 스튜디오 지브리 README (마크다운 원문)
-
-```markdown
 # 🌳 Website Redesign Project: Studio Ghibli
 
 안녕하세요! 스튜디오 지브리 웹사이트 리디자인 프로젝트에 대한 README입니다.
@@ -72,23 +68,20 @@
 
 ## 2. 파일 구성
 
-````
-
 🌱 WebRedesign-StudioGhibli
 ┣ 📂 fonts
 ┣ 📂 images
 ┣ 📂 include
-┣ 📂 pages\_kr
-┣ 📂 pages\_en
-┣ 📂 pages\_jp
+┣ 📂 pages_kr
+┣ 📂 pages_en
+┣ 📂 pages_jp
 ┣ 📂 scss
 ┣ 📂 css
 ┗ 📂 js
 📄 index.html
-📄 index\_en.html
-📄 index\_jp.html
+📄 index_en.html
+📄 index_jp.html
 
-```
 
 ---
 
@@ -292,5 +285,4 @@
 ## 5. 관련 링크
 
 * [프로젝트 GitHub Repository](https://github.com/your-repo-link) (여기에 실제 GitHub 저장소 링크를 넣어주세요!)
-* [배포된 웹사이트 링크](https://your-deployed-site-link) (만약 있다면 여기에 배포된 웹사이트 링크를 넣어주세요!)
-```
+* [배포된 웹사이트 링크](https://your-deployed-site-link) (만약 있다면 여기에 배포된 웹사이트 링크
