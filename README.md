@@ -1,4 +1,4 @@
-Website Redesign Project:
+<h2>Website Redesign Project:<h2/>
 
 스튜디오 지브리 Studio Ghibli
 
