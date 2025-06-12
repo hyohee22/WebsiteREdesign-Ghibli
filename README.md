@@ -1,6 +1,6 @@
-<h2>Website Redesign Project:<h2/>
+#Website Redesign Project:
 
-스튜디오 지브리 Studio Ghibli
+###스튜디오 지브리 Studio Ghibli
 
 조효희,
 김채연, Kim chaeyeon
