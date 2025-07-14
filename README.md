@@ -343,5 +343,5 @@
 
 ## 5. 관련 링크
 
-* [프로젝트 GitHub Repository](https://github.com/your-repo-link) (여기에 실제 GitHub 저장소 링크를 넣어주세요!)
-* [배포된 웹사이트 링크](https://your-deployed-site-link) (만약 있다면 여기에 배포된 웹사이트 링크
+* [프로젝트 GitHub Repository][(https://github.com/your-repo-link) (여기에 실제 GitHub 저장소 링크를 넣어주세요!)](https://github.com/hyohee22/WebsiteREdesign-Ghibli.git)
+* [배포된 웹사이트 링크][(https://your-deployed-site-link) (만약 있다면 여기에 배포된 웹사이트 링크](https://hyohee22.github.io/WebsiteREdesign-Ghibli/)
